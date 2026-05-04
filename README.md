@@ -57,38 +57,6 @@ Welcome! This README combines a **Markdown cheatsheet** with some awesome **movi
 
 ---
 
-## 🔗 Links
 
-```markdown
-[Watch Trailer](https://youtube.com)
-```
 
-[Watch Trailer](https://youtube.com)
 
----
-
-## 🖼️ Images
-
-```markdown
-![Movie Poster](https://via.placeholder.com/150)
-```
-
-![Movie Poster](https://via.placeholder.com/150)
-
----
-
-## 💻 Code
-
-### Inline Code
-```markdown
-Use `print("Hello World")`
-```
-
-Use `print("Hello World")`
-
-### Code Block
-````markdown
-```python
-def favorite_movie():
-    return "Interstellar"
-```
