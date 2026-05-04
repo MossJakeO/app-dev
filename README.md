@@ -1,11 +1,9 @@
 # 🎬 Jake Moss
-### GitHub Markdown Cheatsheet + Favorite Movies 🍿
+ ## Favorite Movies and series!🍿
 
-Welcome! This README combines a **Markdown cheatsheet** with some awesome **movie examples** to make learning fun and practical.
 
 ---
 
-## ✍️ Text Formatting
 
 | Style | Syntax | Example |
 |------|--------|--------|
@@ -14,18 +12,7 @@ Welcome! This README combines a **Markdown cheatsheet** with some awesome **movi
 | Bold + Italic | `***text***` | ***The Matrix*** |
 | Strikethrough | `~~text~~` | ~~Old Movie~~ |
 
----
 
-## 📝 Headings
-
-```markdown
-# Movie Title
-## Genre
-### Description
-```
-
-### Example:
-# Inception  
 ## Sci-Fi / Thriller  
 ### A mind-bending film about dreams within dreams.
 
